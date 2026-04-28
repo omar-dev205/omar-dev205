@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi there, I'm Omar Faruk! 👋
 
-<!--
-**omar-dev205/omar-dev205** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a self-taught **Python Developer** with a deep interest in **AI Automation** and **Machine Learning**. I love solving complex problems through code and building tools that make life easier.
 
-Here are some ideas to get you started:
+### 🚀 What I'm working on:
+- 🤖 Developing custom AI Chatbots using Python and Llama 3 API.
+- ⚙️ Automating workflows and business processes.
+- 🐍 Deep diving into Object-Oriented Programming (OOP) and advanced Python.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack:
+- **Languages:** Python
+- **Tools:** VS Code, Git, GitHub
+- **Automation:** Make.com, AI APIs
+
+### 🌱 Learning Journey:
+- Currently sharpening my skills in **Machine Learning** and **English Fluency**.
+- Practicing daily to build consistent coding habits.
+
+### 📫 Let's Connect:
+- **LinkedIn:** [Your LinkedIn Profile Link Here]
+- **Facebook:** [Your Facebook Profile Link Here]
+
+---
+*“Success is the sum of small efforts, repeated day-in and day-out.”*
