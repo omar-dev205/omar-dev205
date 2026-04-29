@@ -17,8 +17,8 @@ I am a self-taught **Python Developer** with a deep interest in **AI Automation*
 - Practicing daily to build consistent coding habits.
 
 ### 📫 Let's Connect:
-- **LinkedIn:** [Your LinkedIn Profile Link Here]
-- **Facebook:** [Your Facebook Profile Link Here]
+- **LinkedIn:** [https://www.linkedin.com/in/omar-faruk-b819b1280]
+- **Facebook:** [https://www.facebook.com/profile.php?id=100036720968667]
 
 ---
 *“Success is the sum of small efforts, repeated day-in and day-out.”*
